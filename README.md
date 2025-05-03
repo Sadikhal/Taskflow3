@@ -24,6 +24,8 @@
 
 📭 Empty State UI — Clean and user-friendly empty state design.
 
+🔄completion based filtering of tasks 
+
 ⚡ State Management with Zustand — Lightweight and scalable global state management.
   ### preview of application
 
