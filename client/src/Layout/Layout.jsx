@@ -34,7 +34,7 @@ const Layout = () => {
 
         if (data?.projects?.length > 0 && !currentProject) {
           setCurrentProject(data.projects[0]);
-          navigate(`/project/${data.projects[0]._id}/home`);
+          navigate(`/${data.projects[0]._id}/home`);
         }
       } catch (error) {
         console.log('Failed to fetch projects:', error);
@@ -77,7 +77,7 @@ const Layout = () => {
                   const project = projects.find(p => p._id === value);
                   if (project) {
                     setCurrentProject(project);
-                    navigate(`/project/${project._id}/home`);
+                    navigate(`/${project._id}/home`);
                   }
                 }}
               >

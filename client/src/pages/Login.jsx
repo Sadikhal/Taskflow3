@@ -22,9 +22,9 @@ function Login() {
       console.log(data)
       if (data.projects.length > 0) {
         setCurrentProject(data.projects[0]);
-        navigate(`/project/${data.projects[0]._id}/home`);
+        navigate(`/${data.projects[0]._id}/home`);
       } else {
-        navigate('/project');
+        navigate('/');
       }
     } catch (err) {
       setError(err.response?.data?.message || 'An error occurred');

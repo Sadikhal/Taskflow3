@@ -34,7 +34,7 @@ const Navbar = () => {
           const project = projects.find(p => p._id === value);
           if (project) {
             setCurrentProject(project);
-            navigate(`/project/${project._id}/home`);
+            navigate(`/${project._id}/home`);
           }
         }}
       >

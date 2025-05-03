@@ -21,7 +21,7 @@ const CreateProjectDialog = () => {
       addProject(data);
       setCurrentProject(data);
       toggleProjectDialog(false);
-      navigate(`/project/${data._id}/home`);
+      navigate(`/${data._id}/home`);
     } catch (error) {
       console.log('Error creating project:', error);
     }

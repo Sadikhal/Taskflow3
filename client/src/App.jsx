@@ -36,7 +36,7 @@ function App() {
       element: <ProtectedRoute />,
       children: [
         {
-          path: "/project",
+          path: "/",
           element: <Layout />,
           children: [
             {

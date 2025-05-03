@@ -47,7 +47,7 @@ const EmailVerificationPage = () => {
             const verificationCode = code.join('');
             const { data } = await apiRequest.post('/auth/verify-email', { code: verificationCode });
             login(data.user);
-            navigate('/project');
+            navigate('/');
         } catch (err) {
             setError(err.response?.data?.message || 'Verification failed');
             setCode(["", "", "", "", "", ""]);
