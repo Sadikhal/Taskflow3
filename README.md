@@ -1,12 +1,10 @@
 ## Task Tracking Application
-![Screenshot (109)](https://github.com/user-attachments/assets/5d8a4866-27b2-432f-abc5-520a829a4258)
 
-![Screenshot (111)](https://github.com/user-attachments/assets/203987f0-01b7-45e9-8ea8-496df56a25bf)
+![Screenshot (108)](https://github.com/user-attachments/assets/4a0ce130-7432-4f1b-a751-aea7b63020aa)
+![Screenshot (111)](https://github.com/user-attachments/assets/d864311c-14ea-4ef3-a98d-9f5a2e074e20)
+![Screenshot (109)](https://github.com/user-attachments/assets/ed58659c-d222-43ec-852b-c0a9fcec09ef)
+![Screenshot (112)](https://github.com/user-attachments/assets/84449566-f27d-42c7-aad9-a4f3fcdd04d3)
 
-![Screenshot (108)](https://github.com/user-attachments/assets/2f43c7aa-7b54-4d76-ac7f-3bfef4fba279)
-
-![Screenshot (109)](https://github.com/user-attachments/assets/71393236-2090-419f-a31b-8b1599f96c4d)
-![Screenshot (109)](https://github.com/user-attachments/assets/46b9abe0-8aea-46d6-9cfe-f4b0394c5559)
 
 ## Features:
 
